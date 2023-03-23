@@ -43,10 +43,6 @@ Quit command to exit the program
 run the following command to start
 
 ```bash
-git clone https://github.com/NUCCASJNR/AirBnB_clone.git
-```
-
-```bash
 cd AirBnB_clone
 ```
 
@@ -63,13 +59,6 @@ DIRECTORIES | CONTENT
 [our tests](./our_tests) | contains the main.py files that were used to test the codes
 [tests](./tests) | contains the unittest test files
 
-## CONTRIBUTORS
+## Ogoobaby
 
-## Al-Areef
-
-- Github:  [NUCCASJNR](https://github.com/NUCCASJNR)
-- Twitter:  [codewithalareef](https://twitter.com/codewithalareef)
-
-## Ayobami
-
-- Github: [Ayobami](https://github.com/Ayobami6)
+- Github: [Ogoobaby](https://github.com/Ogoobaby)
